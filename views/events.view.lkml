@@ -1,5 +1,5 @@
 view: events {
-  sql_table_name: secupi_test.events ;;
+  sql_table_name: events ;;
 
   dimension_group: acquired {
     type: time
